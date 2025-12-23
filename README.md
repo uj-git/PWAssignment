@@ -41,3 +41,6 @@ Umang
 
 ### Logout Flow
 ![Logout Flow](screenshots/notification_and_settings_screen.jpg)
+
+### APK
+[APK](apk/app-debug.apk)
