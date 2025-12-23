@@ -30,3 +30,14 @@ Figma: https://www.figma.com/design/D3oikbeJno5ewk28AaAuA7/Quizzy
 
 ## Author
 Umang
+
+## Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login_screen.jpg)
+
+### Home Screen
+![Home Screen](screenshots/home_screen.jpg)
+
+### Logout Flow
+![Logout Flow](screenshots/notification_and_settings_screen.jpg)
