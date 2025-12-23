@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101008988014",
+    "project_id": "pwassignment-e310c",
+    "storage_bucket": "pwassignment-e310c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101008988014:android:108b0718529d7f7f88d37f",
+        "android_client_info": {
+          "package_name": "com.test.pwassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASmEdmLn0J0AN4B0SBkjuHtQjZuHmEEN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
